@@ -1,0 +1,7 @@
+#Ignore Files
+*
+
+#Don't Ignore
+!.gitignore
+!GoogleMaps.aspx
+!GoogleMaps.aspx.cs
