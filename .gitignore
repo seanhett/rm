@@ -3,5 +3,5 @@
 
 #Don't Ignore
 !.gitignore
-!GoogleMaps.aspx
-!GoogleMaps.aspx.cs
+!GoogleMap.aspx
+!GoogleMap.aspx.cs
